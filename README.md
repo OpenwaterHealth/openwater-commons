@@ -57,7 +57,7 @@ Openwater uses a Technical Steering Committee (TSC) governance model inspired by
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the AGPL 3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## 🌟 Acknowledgments
 
