@@ -132,18 +132,3 @@ For answers to common questions about this code of conduct, see the FAQ at
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 ```
-
-4. Click **"Commit new file"**
-
----
-
-## What You've Just Accomplished ✅
-
-### Your `.github` repository now contains:
-```
-.github/
-├── profile/
-│   └── README.md           ← Organization profile (shows on homepage)
-├── CONTRIBUTING.md         ← Contribution guidelines (appears on all repos)
-├── CODE_OF_CONDUCT.md      ← Code of conduct (appears on all repos)
-└── README.md               ← Repository description
