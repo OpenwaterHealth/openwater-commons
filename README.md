@@ -1,6 +1,7 @@
 <p align-"center">
   <img serc=".github/assets/openwater-commons-banner.png" alt="Openwater Commons" width="100%">
 </p>
+
 # Openwater Commons
 
 > Building open-source medical devices - an open-source platform democratizing medical imaging and neuromodulation technology.
