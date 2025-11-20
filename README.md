@@ -1,6 +1,6 @@
 # Openwater Commons
 
-> Building the Linux of medical devices - an open-source platform democratizing medical imaging and neuromodulation technology.
+> Building open-source medical devices - an open-source platform democratizing medical imaging and neuromodulation technology.
 
 ## 🎯 Mission
 
