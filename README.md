@@ -1,5 +1,5 @@
 <p align-"center">
-  <img src=".github/assets/openwater-3.png" alt="Openwater Commons" width="100%">
+  <img src=".github/assets/openwater-3.PNG" alt="Openwater Commons" width="100%">
 </p>
 
 # Openwater Commons
