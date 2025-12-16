@@ -1,5 +1,12 @@
 <p align-"center">
-  <img src=".github/assets/openwater-3.PNG" alt="Openwater Commons" width="100%">
+  <img src=".github/assets/openwater-3.png" alt="Openwater Commons" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://dblizinski.github.io/openwater-community/index.html">Website</a>
+  <a href="#">Blog</a>
+  <a href="#">YouTube</a>
+  <a href="#">X</a>
 </p>
 
 # Openwater Commons
