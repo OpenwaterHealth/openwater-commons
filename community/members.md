@@ -18,8 +18,8 @@ Community members are contributors who have:
 ### Core Team
 - **Aaron Timm** - CEO
 - **Mary Lou Jepsen** - Founder
-- **David** - Product Lead
-- **Pete** - Hardware Engineer
+- **David Paribello** - Product Lead
+- **Pete Herzlinger** - Hardware Engineer
 - **Daniel Blizinski** - Director of Open-Source Business Strategy
 
 ### Community Contributors
