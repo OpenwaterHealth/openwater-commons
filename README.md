@@ -70,10 +70,14 @@ Openwater uses a Technical Steering Committee (TSC) governance model inspired by
 
 This project is licensed under the AGPL 3.0 - see the [LICENSE](LICENSE) file for details.
 
+## 📦 Repository Archives
+   
+   - [January 2026 Archive](records/ARCHIVED_REPOS_20260113.md) - GitHub Archiving Party
+
 ## 🌟 Acknowledgments
 
 Built with support from the global open-source medical device community. Special thanks to our research partners and contributors.
 
 ---
 
-**Status:** 🚧 Under Active Development | Last Updated: November 2025
+**Status:** 🚧 Under Active Development | Last Updated: January 2026
