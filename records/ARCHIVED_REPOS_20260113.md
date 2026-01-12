@@ -41,35 +41,30 @@
    - Private repository
    - Reason: I2C testing repo
 
-6. **OpenLIFU-TestAPP**
-   - Last activity: December 2025
-   - Public repository
-   - Reason: Test application superseded
-
 ---
 
 ### 📦 ReadOnly Scanning Systems (2018 Era)
 
 **Reason:** Legacy scanning systems from 2018, superseded by newer platforms
 
-7. **IntegratingSphere** (Feb 2018 - 6.8 years old)
-8. **TissueModel** (Feb 2018)
-9. **ScanningImageSystem1** (Mar 2018)
-10. **HydrophoneScanningSystem** (Apr 2018)
-11. **ReadOnlyScanningImageSystem2** (Jun 2018)
-12. **ReadOnlyScanningImageSystem2_2Camera** (Jun 2018)
-13. **ReadOnlyScanningImageSystem3_Reflection** (Jun 2018)
-14. **ReadOnlyScanningImageSystem4_ImageSubtraction** (Jun 2018)
-15. **ReadOnlyScanningImageSystem5_HardwareTrigger** (Aug 2018)
-16. **ReadOnlyScanningImageSystem5_HardwareTriggerWithMods** (Aug 2018)
-17. **ReadOnlyScanningImageSystem5_HardwareTriggerWithModsCNI** (Oct 2018)
-18. **ReadOnlyScanningImageSystem6_Verdi** (Aug 2018)
-19. **ReadOnlyScanningImageSystem7_Corrections** (Sep 2018)
-20. **ReadOnlyScanningImageSystem8_CorrectionsOscilloscope** (Nov 2018)
-21. **ReadOnlyScanningImageSystem8v2_SampleMove** (Dec 2018)
-22. **ReadOnlyScanningImageSystem8v3_Andy** (Jan 2019)
-23. **ReadOnlyScanningImageSystem9_HiMax** (Dec 2018)
-24. **ReadOnlyScanningSystem8_CorrectionsOscilloscopeCNI** (Nov 2018)
+6. **IntegratingSphere** (Feb 2018 - 6.8 years old)
+7. **TissueModel** (Feb 2018)
+8. **ScanningImageSystem1** (Mar 2018)
+9. **HydrophoneScanningSystem** (Apr 2018)
+10. **ReadOnlyScanningImageSystem2** (Jun 2018)
+11. **ReadOnlyScanningImageSystem2_2Camera** (Jun 2018)
+12. **ReadOnlyScanningImageSystem3_Reflection** (Jun 2018)
+13. **ReadOnlyScanningImageSystem4_ImageSubtraction** (Jun 2018)
+14. **ReadOnlyScanningImageSystem5_HardwareTrigger** (Aug 2018)
+15. **ReadOnlyScanningImageSystem5_HardwareTriggerWithMods** (Aug 2018)
+16. **ReadOnlyScanningImageSystem5_HardwareTriggerWithModsCNI** (Oct 2018)
+17. **ReadOnlyScanningImageSystem6_Verdi** (Aug 2018)
+18. **ReadOnlyScanningImageSystem7_Corrections** (Sep 2018)
+19. **ReadOnlyScanningImageSystem8_CorrectionsOscilloscope** (Nov 2018)
+20. **ReadOnlyScanningImageSystem8v2_SampleMove** (Dec 2018)
+21. **ReadOnlyScanningImageSystem8v3_Andy** (Jan 2019)
+22. **ReadOnlyScanningImageSystem9_HiMax** (Dec 2018)
+23. **ReadOnlyScanningSystem8_CorrectionsOscilloscopeCNI** (Nov 2018)
 
 ---
 
@@ -77,16 +72,16 @@
 
 **Reason:** Old experimental prototypes superseded or discontinued
 
-25. **ExploraSystem1** (Jan 2019)
-26. **ExploraSystem1_Himax** (Feb 2019)
-27. **ExploraSystem2** (Mar 2019)
-28. **Camera** (Dec 2018)
-29. **ScanningImageSystem8v4_ImprovedDataSaving** (Mar 2019)
-30. **ScanningImageSystem8v4.2_UniDirectional** (Apr 2019)
-31. **SystemSimulation1** (Sep 2018)
-32. **VerasonicsSetUpScripts** (Oct 2018)
-33. **camera_emva1288** (Oct 2019)
-34. **Ultrasound-Transmitter** (Oct 2019)
+24. **ExploraSystem1** (Jan 2019)
+25. **ExploraSystem1_Himax** (Feb 2019)
+26. **ExploraSystem2** (Mar 2019)
+27. **Camera** (Dec 2018)
+28. **ScanningImageSystem8v4_ImprovedDataSaving** (Mar 2019)
+29. **ScanningImageSystem8v4.2_UniDirectional** (Apr 2019)
+30. **SystemSimulation1** (Sep 2018)
+31. **VerasonicsSetUpScripts** (Oct 2018)
+32. **camera_emva1288** (Oct 2019)
+33. **Ultrasound-Transmitter** (Oct 2019)
 
 ---
 
@@ -94,22 +89,22 @@
 
 **Reason:** Research projects completed or superseded
 
-35. **automation** (Dec 2019)
-36. **OndaScan** (Feb 2020)
-37. **HandyLabScripts** (Mar 2020)
-38. **exo** (Sep 2020)
-39. **openwater_imaging** (Dec 2020)
-40. **camera-usb** (Jun 2021)
-41. **setup2d** (Jul 2021)
-42. **FWI3D** (Aug 2021)
-43. **FWI** (Aug 2021)
-44. **bloodflow** (Oct 2021)
-45. **headScanPlot** (Jun 2022)
-46. **ml-blood-flow** (Dec 2022)
-47. **brain-mri-segmentation** (Dec 2022)
-48. **PatientDataStore** (Dec 2022)
-49. **Gen2Device-Configurations** (May 2023)
-50. **embedded** (May 2023)
+34. **automation** (Dec 2019)
+35. **OndaScan** (Feb 2020)
+36. **HandyLabScripts** (Mar 2020)
+37. **exo** (Sep 2020)
+38. **openwater_imaging** (Dec 2020)
+39. **camera-usb** (Jun 2021)
+40. **setup2d** (Jul 2021)
+41. **FWI3D** (Aug 2021)
+42. **FWI** (Aug 2021)
+43. **bloodflow** (Oct 2021)
+44. **headScanPlot** (Jun 2022)
+45. **ml-blood-flow** (Dec 2022)
+46. **brain-mri-segmentation** (Dec 2022)
+47. **PatientDataStore** (Dec 2022)
+48. **Gen2Device-Configurations** (May 2023)
+49. **embedded** (May 2023)
 
 ---
 
