@@ -5,7 +5,7 @@
 **Archived on:** January 13, 2026  
 **Initiative:** GitHub Archiving Party 🎉  
 **Meeting Date:** January 13, 2026  
-**Total Archived:** [FILL IN AFTER MEETING]  
+**Total Archived:** 50 
 **Facilitator:** Dan Blizinski
 
 ---
@@ -123,8 +123,8 @@ These repositories were archived as part of the **GitHub Cleanup Initiative** to
 
 **All archived repositories:**
 - Had no commits for 12-18+ months
-- Were confirmed by team as no longer in active use
-- Were discussed and approved in team meeting
+- Were confirmed by the team as no longer in active use
+- Were discussed and approved in the team meeting
 - Remain fully accessible (read-only)
 - Can be unarchived if needed
 
@@ -137,7 +137,7 @@ These repositories were archived as part of the **GitHub Cleanup Initiative** to
 Archived repositories remain:
 - ✅ Visible to organization members
 - ✅ Cloneable (read-only)
-- ✅ Searchable on GitHub
+- ✅ Searchable on GitHub unless private.
 - ✅ All history preserved
 - ❌ Cannot accept new commits, issues, or PRs
 
@@ -146,196 +146,9 @@ Archived repositories remain:
 If a repository needs to be reactivated:
 
 1. Go to repository Settings
-2. Scroll to "Danger Zone"
-3. Click "Unarchive this repository"
+2. Scroll to "Danger Zone."
+3. Click "Unarchive this repository."
 4. Or contact: @dan
 
 **No data is lost - unarchiving is instant and reversible.**
 
----
-
-## Team Approval
-
-**Meeting:** GitHub Archiving Party 🎉  
-**Date:** January 13, 2026  
-**Duration:** 90 minutes  
-**Facilitator:** Dan Blizinski
-
-**Attendees:**
-- Dan Blizinski (Facilitator)
-- [Add names after meeting]
-- [Add names after meeting]
-- [Add names after meeting]
-
-**Voting Results:**
-- Total reviewed: [X] repos
-- Approved to archive: [Y] repos
-- Assigned for investigation: [Z] repos
-- Kept active: [A] repos
-
-**Decision Process:**
-- Each repository reviewed individually
-- >70% approval required for archiving
-- Any team member could veto with explanation
-- Unclear cases moved to investigation category
-
----
-
-## Impact
-
-### Before Cleanup
-- **Total repositories:** 141
-- **Active (last 6 months):** 59 repos (42%)
-- **Dormant (6+ months):** 82 repos (58%)
-
-### After Cleanup
-- **Total active repositories:** [Fill after meeting]
-- **Archived repositories:** [Fill after meeting]
-- **Reduction:** [Fill]%
-
-### Benefits Achieved
-- ✅ Clearer organization structure
-- ✅ Easier onboarding for new contributors
-- ✅ Reduced confusion about active projects
-- ✅ Improved GitHub discoverability
-- ✅ Set precedent for ongoing maintenance
-
----
-
-## Related Documentation
-
-- [GitHub Organization Structure](../README.md)
-- [Repository Naming Conventions](../docs/naming-conventions.md)
-- [Contribution Guidelines](../CONTRIBUTING.md)
-
----
-
-## Future Maintenance
-
-**Quarterly Review Process:**
-- Review all repositories for activity
-- Identify candidates for archiving (6+ months dormant)
-- Discuss with team and owners
-- Archive approved repositories
-- Update this record
-
-**Next Review:** April 2026
-
----
-
-## Notes
-
-- All archived repos remain in OpenwaterHealth organization
-- Archived repos still count toward organization limits
-- No repositories were deleted (only archived)
-- Archive record created: January 13, 2026
-- Record keeper: Dan Blizinski
-
----
-
-**For questions about archived repositories, contact @dan**
-```
-
----
-
-### Step 5: Preview (Optional)
-
-Click the **"Preview"** tab to see how it will look formatted.
-
-**Toggle between:**
-- **Edit** tab (to edit)
-- **Preview** tab (to see formatted view)
-
----
-
-### Step 6: Commit the File
-
-Scroll down to the **"Commit new file"** section at bottom:
-
-**Option 1: Direct commit to main (simpler)**
-1. Select: **"Commit directly to the `main` branch"**
-2. Commit message is auto-filled: `Create ARCHIVED_REPOS_20260113.md`
-3. You can edit it to: `Add archive record template for GitHub Archiving Party`
-4. Click green **"Commit new file"** button
-
-**Option 2: Create pull request (more formal)**
-1. Select: **"Create a new branch for this commit and start a pull request"**
-2. Branch name: `archive-record-jan2026`
-3. Click **"Propose new file"**
-4. Then click **"Create pull request"**
-5. Then merge it
-
-**I recommend Option 1 (direct commit) - simpler and faster!**
-
----
-
-### Step 7: Verify It Was Created
-
-After clicking "Commit new file", you should see:
-```
-✅ openwater-commons/records/ARCHIVED_REPOS_20260113.md created
-```
-
-**Check it:**
-1. Go to: https://github.com/OpenwaterHealth/openwater-commons
-2. You should see a new `records/` folder
-3. Click into it
-4. Click on `ARCHIVED_REPOS_20260113.md`
-5. Verify content looks good
-
----
-
-## ✏️ EDITING AFTER THE MEETING
-
-### To Update with Real Numbers:
-
-1. **Go to the file:**
-```
-   https://github.com/OpenwaterHealth/openwater-commons/blob/main/records/ARCHIVED_REPOS_20260113.md
-```
-
-2. **Click the pencil icon** (✏️ Edit this file) in the top right
-
-3. **Make your edits:**
-   - Replace `[FILL IN AFTER MEETING]` with actual number
-   - Add attendee names
-   - Update vote counts
-   - Remove repos you didn't actually archive
-   - Add repos you did archive
-
-4. **Scroll down to commit changes:**
-   - Commit message: `Update archive record with meeting results`
-   - Click **"Commit changes"**
-
----
-
-## 📊 VISUAL WALKTHROUGH
-
-### Creating the File:
-```
-Step 1: Go to openwater-commons
-   ↓
-Step 2: Click "Add file" → "Create new file"
-   ↓
-Step 3: Type filename: records/ARCHIVED_REPOS_20260113.md
-   ↓
-Step 4: Paste template content
-   ↓
-Step 5: Preview (optional)
-   ↓
-Step 6: Scroll down, click "Commit new file"
-   ↓
-✅ Done! File created at openwater-commons/records/
-```
-
-### Editing After Meeting:
-```
-Step 1: Navigate to file in browser
-   ↓
-Step 2: Click pencil icon ✏️
-   ↓
-Step 3: Make edits (add numbers, names, etc.)
-   ↓
-Step 4: Scroll down, click "Commit changes"
-   ↓
-✅ Done! File updated with meeting results
