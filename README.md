@@ -26,7 +26,7 @@ Reduce medical device development costs from $119M to $15M through open-source c
 ## 🏗️ Platform Components
 
 ### Open-LIFU (Low Intensity Focused Ultrasound)
-- [OpenLIFU-python](https://github.com/OpenwaterHealth/OpenLIFU-python) - Core toolbox
+- [openlifu-sdk](https://github.com/OpenwaterHealth/OpenLIFU-python) - Core toolbox
 - [SlicerOpenLIFU](https://github.com/OpenwaterHealth/SlicerOpenLIFU) - 3D Slicer extension
 
 ### Open-MOTION (Motion Tracking & Imaging)
