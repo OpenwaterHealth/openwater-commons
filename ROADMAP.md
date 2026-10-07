@@ -20,7 +20,6 @@ Transform Openwater into the "Linux of medical devices" - a global open-source p
 
 ### 🔄 In Progress
 - [ ] Organization restructuring (Week 1 of 12)
-- [ ] License transition planning (AGPL → Apache 2.0)
 - [ ] Community infrastructure buildout
 - [ ] Documentation site setup
 
@@ -39,10 +38,6 @@ Transform Openwater into the "Linux of medical devices" - a global open-source p
   - `.github` repository with org-wide files
   - `openwater-docs` documentation site
   - `awesome-openwater` curated resources
-- [ ] Execute Apache 2.0 license transition
-  - Update all software/firmware repos
-  - CERN-OHL-P for hardware repos
-  - CLA implementation
 - [ ] Resubmit SlicerOpenLIFU to 3D Slicer community
 - [ ] Launch community Discord/forum
 
@@ -221,11 +216,9 @@ Transform Openwater into the "Linux of medical devices" - a global open-source p
 
 ## Strategic Priorities
 
-### 1. Permissive Licensing (Critical Path)
-**Why:** AGPL blocks clinical translation and academic partnerships  
-**Action:** Transition to Apache 2.0 (software) + CERN-OHL-P (hardware)  
-**Timeline:** Q1 2026  
-**Evidence:** 3D Slicer rejection documented
+### 1. License classification
+**Action:** Follow the approved four-layer model in the [organization contribution policy](https://github.com/OpenwaterHealth/.github/blob/main/CONTRIBUTING.md). Complete rights-reviewed SlicerOpenLIFU and hardware relicensing separately.  
+**Status:** In progress
 
 ### 2. Hardware Accessibility
 **Why:** Scattered CAD files block community hardware development  

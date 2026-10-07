@@ -94,7 +94,7 @@ See [rfcs/template.md](../../rfcs/template.md) for the full template.
 
 ## 📚 Example RFCs
 
-- [RFC-001: License Transition](../../rfcs/RFC-001-license-transition.md)
+- [Current organization licensing policy](https://github.com/OpenwaterHealth/.github/blob/main/CONTRIBUTING.md)
 - More coming soon...
 
 ---

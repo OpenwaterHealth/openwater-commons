@@ -33,14 +33,9 @@ Reduce medical device development costs from $119M to $15M through open-source c
 - [openmotion-sdk](https://github.com/OpenwaterHealth/openmotion-sdk) - Python library
 - Additional components coming soon
 
-## 📋 Current Status
+## Licensing
 
-⚠️ **Active Transition:** We're currently restructuring our GitHub organization and transitioning from AGPL-3.0 to Apache 2.0 licensing. [Learn why](docs/LICENSE-TRANSITION.md) (Coming Soon)
-
-- **Organization Restructure:** In Progress (Week 1 of 12)
-- **License Transition:** Planning Phase
-- **Community Infrastructure:** Building
-- **Documentation Site:** Coming Soon
+Openwater uses AGPL-3.0-or-later for its reciprocal software core, Apache-2.0 for integration software and OpenMOTION firmware/bootloaders, CERN-OHL-S-2.0 for hardware reference designs, and CC-BY-4.0 for documentation and sample data. See the [organization contribution policy](https://github.com/OpenwaterHealth/.github/blob/main/CONTRIBUTING.md). Each repository's current LICENSE file governs its published contents.
 
 ## 🤝 Get Involved
 
@@ -68,7 +63,7 @@ Openwater uses a Technical Steering Committee (TSC) governance model inspired by
 
 ## 📄 License
 
-This project is licensed under the AGPL 3.0 - see the [LICENSE](LICENSE) file for details.
+This repository's current published content is governed by its [LICENSE](LICENSE). The organization [contribution policy](https://github.com/OpenwaterHealth/.github/blob/main/CONTRIBUTING.md) describes the approved license layers.
 
 ## 📦 Repository Archives
    
