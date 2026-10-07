@@ -8,12 +8,8 @@ Record of major technical and governance decisions.
 
 ### December
 
-**License Transition to Apache 2.0 / CERN-OHL-P**
-- **Date:** December 2025
-- **Decision:** Transition from AGPL-3.0 to Apache 2.0 (software) and CERN-OHL-P (hardware)
-- **Rationale:** Enable clinical translation, academic partnerships, and 3D Slicer integration
-- **Status:** Planning phase
-- **RFC:** [RFC-001](../../rfcs/RFC-001-license-transition.md)
+**Prior licensing proposal**
+- **Status:** Superseded by the [organization contribution policy](https://github.com/OpenwaterHealth/.github/blob/main/CONTRIBUTING.md). Repository license changes require documented contributor rights.
 
 **GitHub Organization Restructuring**
 - **Date:** December 2025

@@ -4,16 +4,9 @@ Thank you for your interest in contributing to Openwater! We're building open-so
 
 ---
 
-## 🚧 Current Status
+## Current contribution policy
 
-**We're in the middle of a major transition (November 2025):**
-
-1. **License Migration:** Moving from AGPL-3.0 to Apache 2.0 (Week 3-4)
-2. **Repository Restructure:** Organizing 137+ repos into clear product lines
-3. **Community Infrastructure:** Setting up forums, chat, governance
-4. **Documentation:** Building comprehensive docs at docs.openwater.health
-
-**Full contribution guidelines will be available in December 2025.** For now, this document provides essential information for early contributors.
+The [Openwater organization contribution policy](https://github.com/OpenwaterHealth/.github/blob/main/CONTRIBUTING.md) defines the licensing layers and DCO requirements. This repository's existing [LICENSE](LICENSE) controls published content until a rights-reviewed change is merged.
 
 ---
 
@@ -378,13 +371,7 @@ Each level brings additional privileges and responsibilities.
 
 ## License
 
-By contributing to Openwater Commons, you agree that your contributions will be licensed under the **Apache License 2.0**.
-
-**Current license transition:**
-- Moving from AGPL-3.0 to Apache 2.0 (Week 3-4)
-- All new contributions will be Apache 2.0
-- Existing code being relicensed with contributor consent
-- [Read full rationale →](LICENSE-TRANSITION.md)
+Follow the [organization contribution policy](https://github.com/OpenwaterHealth/.github/blob/main/CONTRIBUTING.md) and the current [LICENSE](LICENSE). Do not represent a proposed license change as complete before contributor rights are confirmed and the repository license is updated.
 
 ---
 
@@ -407,7 +394,7 @@ By contributing to Openwater Commons, you agree that your contributions will be 
 
 - **[Code of Conduct](CODE_OF_CONDUCT.md)** - Community standards
 - **[Governance](GOVERNANCE.md)** - Decision-making and TSC
-- **[License Transition](LICENSE-TRANSITION.md)** - Why Apache 2.0
+- **[Organization licensing policy](https://github.com/OpenwaterHealth/.github/blob/main/CONTRIBUTING.md)** - Current license layers
 - **[Architecture Docs](docs/architecture.md)** - Technical overview (coming soon)
 - **[API Reference](docs/api-reference.md)** - Developer documentation (coming soon)
 
@@ -420,5 +407,5 @@ Together, we're building the infrastructure for a new healthcare economy that se
 ---
 
 **Last Updated:** November 20, 2025  
-**Next Review:** December 2025  
+**Next Review:** To be scheduled  
 **Status:** Living Document - Will expand as community grows
