@@ -1,3 +1,9 @@
+# Openwater Commons
+
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 <p align-"center">
   <img src=".github/assets/openwater-3.png" alt="Openwater Commons" width="100%">
 </p>
@@ -8,8 +14,6 @@
   <a href="#">YouTube</a>
   <a href="#">X</a>
 </p>
-
-# Openwater Commons
 
 > Building open-source medical devices - an open-source platform democratizing medical imaging and neuromodulation technology.
 
