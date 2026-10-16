@@ -7,7 +7,7 @@ Complete installation instructions for Openwater platforms.
 ## Prerequisites
 
 - **Python:** 3.8 or higher
-- **Operating System:** Windows 10+, macOS 10.14+, Ubuntu 20.04+
+- **Operating System:** Windows 11, macOS 10.14+, Ubuntu 20.04+
 - **Hardware:** USB port for device connection
 
 ---
